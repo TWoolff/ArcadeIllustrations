@@ -1,0 +1,123 @@
+{
+  "products": [
+    { "id": 1,  
+      "title": "Elefant",            
+      "info": "... kom marcherende",    
+      "image": " ", 
+      "category": "Dyr",
+      "year": 2020 
+    },
+  
+    { "id": 2,  
+      "title": "Giraf",              
+      "info": "...",  
+      "image": " ", 
+      "category": "Dyr" ,
+      "year": 2020
+    },
+  
+    { "id": 3,  
+      "title": "Brumbasse",          
+      "info": "bzzzz",   
+      "image": " ", 
+      "category": "Dyr",
+      "year": 2020
+    },
+  
+    { "id": 5,  
+      "title": "Havskilpade",        
+      "info": "blob",    
+      "image": " ", 
+      "category": "Dyr",
+      "year": 2020 
+    },
+  
+    { "id": 6,  
+      "title": "Løve",               
+      "info": "roaaar",     
+      "image": " ", 
+      "category": "Dyr",
+      "year": 2020 
+    },
+  
+    { "id": 7,  
+      "title": "Næsehorn",           
+      "info": "...",     
+      "image": " ", 
+      "category": "Dyr",
+      "year": 2020 
+    },
+  
+    { "id": 8,  
+      "title": "Flamingo",           
+      "info": "...",       
+      "image": " ", 
+      "category": "Dyr",
+      "year": 2020 
+    },
+  
+    { "id": 9,  
+      "title": "Gorilla",            
+      "info": "uhuh",     
+      "image": " ", 
+      "category": "Dyr",
+      "year": 2020 
+    },
+  
+    { "id": 10, 
+      "title": "Chimpanse",          
+      "info": "huhu hihi",      
+      "image": " ", 
+      "category": "Dyr",
+      "year": 2020 
+    },
+  
+    { "id": 11, 
+      "title": "Frø",                
+      "info": "kvææææk",     
+      "image": " ", 
+      "category": "Dyr",
+      "year": 2020 
+    },
+  
+    { "id": 12, 
+      "title": "Harry Potter",      
+      "info": "Working hard is important, but there is something that matters even more: believing in yourself.",       
+      "image": " ", 
+      "category": "Film",
+      "year": 2020
+    },
+  
+    { "id": 13, 
+      "title": "Hermione Granger",   
+      "info": "The truth is that you don’t think a girl would have been clever enough!",  
+      "image": " ", 
+      "category": "Film",
+      "year": 2020 
+    },
+  
+    { "id": 14, 
+      "title": "Ron Weasley",        
+      "info": "Don't let the Muggles get you down!",      
+      "image": " ", 
+      "category": "Film",
+      "year": 2020
+    },
+  
+    { "id": 15, 
+      "title": "Lord Voldemort",     
+      "info": "I have seen your heart, and it is mine.", 
+      "image": " ", 
+      "category": "Film",
+      "year": 2020 
+    },
+  
+    { "id": 16, 
+      "title": "Beetlejuice",        
+      "info": "Go ahead, make my millennium.",    
+      "image": " ", 
+      "category": "Film",
+      "year": 2020 
+    }
+  ]
+}

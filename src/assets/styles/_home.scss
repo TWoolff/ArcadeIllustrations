@@ -1,0 +1,9 @@
+.home {
+  .home-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
+    grid-gap: 10px;
+    grid-auto-rows: 18rem;
+    grid-auto-flow: row;
+  }
+}
