@@ -1,9 +1,9 @@
-nav {
+.nav {
   position: fixed;
   bottom: 0;
   padding: 1rem;
 
-  .nav-cart {
+  &__cart {
     display: inline-block;
     cursor: pointer;
     text-decoration: none;

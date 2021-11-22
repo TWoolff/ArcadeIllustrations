@@ -1,7 +1,7 @@
 <template>
   <aside class="sidebar">
     <h4>{{ header }}</h4>
-    <button @click="toggle" class="cart-close">&times;</button>
+    <button @click="toggle" class="sidebar__close">&times;</button>
   </aside>
 </template>
 

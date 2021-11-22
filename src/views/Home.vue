@@ -1,6 +1,6 @@
 <template>
   <section class="home">
-    <Card :products="products" class="home-content" />
+    <Card :products="products" class="home__content" />
   </section>
 </template>
 

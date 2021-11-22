@@ -1,11 +1,11 @@
 <template>
   <router-view :products="products" />
-  <nav>
-    <router-link to="/">Forside</router-link> |
-    <router-link to="/about">Om Arcade Illustrations</router-link> |
-    <router-link to="/contact">Kontakt</router-link> |
+  <nav class="nav">
+    <router-link to="/" class="nav__link">Forside</router-link> |
+    <router-link to="/about" class="nav__link">Om Arcade Illustrations</router-link> |
+    <router-link to="/contact" class="nav__link">Kontakt</router-link> |
     <Filters :filterProducts="filterProducts" />
-    <div @click="toggleSidebar" class="nav-cart">Kurv</div>
+    <div @click="toggleSidebar" class="nav__cart">Kurv</div>
   </nav>
   <transition name="side">
     <Sidebar v-if="showSidebar" :toggle="toggleSidebar" header="Kurv" />
