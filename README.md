@@ -1,4 +1,6 @@
 # arcadeillustrations
+Work in progress - ecommerce site in Vue.js with a Django Rest-API back.
+
 
 ## Project setup
 ```
